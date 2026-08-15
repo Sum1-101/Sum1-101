@@ -34,8 +34,8 @@ the stack and exploring different technologies.
 **Other**
 - Python
 - C++
-- Linux & Bash
-- Git / GitLab / Bitbucket
+- Shell Bash
+- Git / Bitbucket
 - Azure DevOps
 - Jira
 
@@ -88,7 +88,9 @@ existing systems in a ticket-driven development environment.
 ## 💻 A Few Technologies I've Used
 
 ```text
-C#       .NET       ASP.NET Core       EF Core
-Java     Spring     JavaScript         Vue.js
-SQL      Oracle     Python             Linux
-Git      Bash       REST APIs          HTML/CSS
+C#         .NET         ASP.NET Core    EF Core
+Java       JavaScript   Vue.js          SQL
+Oracle     Python       Git             Shell Bash
+REST APIs  HTML/CSS
+```
+
